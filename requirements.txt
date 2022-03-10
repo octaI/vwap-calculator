@@ -1,0 +1,6 @@
+evdev==1.4.0
+pkg-resources==0.0.0
+pynput==1.7.3
+python-xlib==0.29
+six==1.15.0
+websocket-client==0.58.0
